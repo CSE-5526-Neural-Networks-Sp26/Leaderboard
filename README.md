@@ -1,6 +1,6 @@
 # Leaderboard — Speech Emotion Recognition Challenge
 
-> Last updated: **2026-05-03 23:44 UTC**  
+> Last updated: **2026-05-04 00:36 UTC**  
 > Baseline weighted F1: **0.4276**  
 > Metric: weighted F1-score on the public test set
 
@@ -8,10 +8,11 @@
 
 | Team Name | Weighted F1 | Date and Time |
 |-----------|-------------|---------------|
-| group 12 | 0.7015 | May 03, 2026  23:43 UTC |
-| Group 7 | 0.6395 | May 03, 2026  23:43 UTC |
-| group3 | 0.6281 | May 03, 2026  23:43 UTC |
-| baseline | 0.4276 | May 03, 2026  23:43 UTC |
+| group5 | 0.7202 | May 04, 2026  00:36 UTC |
+| group 12 | 0.7015 | May 04, 2026  00:36 UTC |
+| Group 7 | 0.6395 | May 04, 2026  00:36 UTC |
+| group3 | 0.6281 | May 04, 2026  00:36 UTC |
+| baseline | 0.4276 | May 04, 2026  00:36 UTC |
 
 ---
 
